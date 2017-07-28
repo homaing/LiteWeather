@@ -37,7 +37,7 @@ import okhttp3.Response;
 public class MainActivity extends AppCompatActivity {
 
     public static final int REQUEST_CODE = 1;
-    public static final String KEY = "ca559894d7c24a7094b04266795f20d7";
+    public static final String KEY = "INPUT_YUOR_KEY";
 
     public DrawerLayout mDrawerLayout;
     public SwipeRefreshLayout mSwipeRefreshLayout;
